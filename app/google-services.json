@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052627035387",
+    "firebase_url": "https://nativeadvancedrecyclervi-3b5f2.firebaseio.com",
+    "project_id": "nativeadvancedrecyclervi-3b5f2",
+    "storage_bucket": "nativeadvancedrecyclervi-3b5f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052627035387:android:69730e2a0800deb7a63c5e",
+        "android_client_info": {
+          "package_name": "com.example.nativeadvancedrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052627035387-5uqi7mp9qodda910lql4fndj5volgmvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nativeadvancedrecyclerview",
+            "certificate_hash": "cbf35c8a3ffadef295349df48c278356acb34f57"
+          }
+        },
+        {
+          "client_id": "1052627035387-mhof1q2kb546af6nt1mcn3je7mi5ete4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTgktk9H8QGOkpTdyPSWWDPosCGGJ8SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052627035387-mhof1q2kb546af6nt1mcn3je7mi5ete4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
